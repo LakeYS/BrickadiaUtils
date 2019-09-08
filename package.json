@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LakeYS/BrickadiaUtils/issues"
   },
-  "homepage": "https://github.com/LakeYS/BrickadiaUtils#readme"
+  "homepage": "https://github.com/LakeYS/BrickadiaUtils#readme",
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  }
 }
